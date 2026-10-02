@@ -6,3 +6,9 @@ def dividir(a,b):
     return a/b
 
 print (dividir(99,3))
+
+print("Funciones del frontend")
+def despliegue():
+    print("Esta sección esta dedicada a la visualización")
+
+despliegue()
