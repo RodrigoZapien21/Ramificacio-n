@@ -7,8 +7,16 @@ def dividir(a,b):
 
 print (dividir(99,3))
 
+
 print("Funciones del frontend")
 def despliegue():
     print("Esta sección esta dedicada a la visualización")
 
 despliegue()
+
+print("Funciones para el backend")
+def mostrar():
+    print("Parte funcional del backend")
+
+mostrar()
+
